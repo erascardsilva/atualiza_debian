@@ -1,6 +1,6 @@
 /*      Desenvolvido por
                         Erasmo Cardoso
-                                       Atualiza sistema no arch linux */
+                                       Atualiza sistema no Debian e derivados */
 #include <iostream>
 #include <cstdlib>
 //variaveis
